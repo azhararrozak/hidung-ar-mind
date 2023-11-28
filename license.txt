@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized Big Nose Face
+* source:	https://sketchfab.com/3d-models/stylized-big-nose-face-bf290bd3935d42c8924b367d1b5a42c8
+* author:	Sampo (https://sketchfab.com/pellemasi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized Big Nose Face" (https://sketchfab.com/3d-models/stylized-big-nose-face-bf290bd3935d42c8924b367d1b5a42c8) by Sampo (https://sketchfab.com/pellemasi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
